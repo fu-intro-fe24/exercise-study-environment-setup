@@ -1,4 +1,4 @@
-# Övningar - Intro till IT-branschen
+# Övningar - Intro till våra plattformar
 
 ## Azomo
 Logga in på ditt Azomo-konto. Lär dig att hitta information om din nuvarande kurs genom att leta upp var du hittar följande:
